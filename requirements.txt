@@ -1,0 +1,8 @@
+argparse
+webb
+dnspython
+requests
+python-whois
+sublist3r
+rfc3987
+termcolor
