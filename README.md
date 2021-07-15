@@ -2,13 +2,11 @@
 
 # SUBDOMAIN.CSV
 
-Source  Subdomain  http/https   DNS RESOLUTION/IP
+| Source        | Subdomain     | http/https   | DNS RESOLUTION/IP(CLICKABLE)|
+| ------------- |:-------------:| ------------:| ---------------------------:|
+
 
 # TOPOLOGY.CSV
-
-HopNo	RTT1	RTT2	RTT3	 IP Addr(CLICKABLE)
-
-10       81ms    74ms    74ms    127.0.0.1
 
 | HopNo         | RT1           | RT2   | RT3 | IP ADDRESS (CLICKABLE)|
 | ------------- |:-------------:| -----:|:---:| ---------------------:|
