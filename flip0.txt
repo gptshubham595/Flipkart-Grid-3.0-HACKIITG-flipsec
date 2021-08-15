@@ -1,0 +1,52 @@
+
+
+REMOTE SCAN 
+============================================
+SCAN START
+
+
+PACKETS THROUGH SSH TUNNELS -> REMOTE SERVER CONNECTS
+
+
+REMOTE SERVER-> SCANS TARGET SERVERS/NETWORK MAPPING
+
+
+REMOTE SERVER SENDS BACK TO GROUND SERVER VIA SSH TUNNEL
+
+DATA PROCESS AND STORAGE ON GROUND SERVER
+
+DISPLAY
+
+=============================================
+
+LOCAL SERVER SCAN
+
+NETWORK MAPPING
+
+
+
+
+IP ON?? NMAP -sn  / arp-scan
+
+OS detect ? Nmap -O 
+
+Hostname? Nmap -sC -sV
+
+Mac addr? sudo nmap -sP -n IP/24 /arp-scan
+
+Domain? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
