@@ -9,11 +9,6 @@
 ## SOLUTION
 - Using python and Linux packages developed a scanning probe that scans over a remote subnet and local network while detecting open ports, IPs, DNS information and displayed using Kibana from ELK Stack
 
-## VIDEO
-
-[![Watch the video](https://img.youtube.com/vi/Im2FVyLLxZ0/maxresdefault.jpg)](https://youtu.be/Im2FVyLLxZ0)
-
-
 3 CSV's are generated
 
 ## SUBDOMAIN.CSV
@@ -36,5 +31,7 @@ nmap.nmap_os_detection("192.168.178.2") # MOST BE ROOT
 
 accuracy Name osclass_osfamily osclass_osgen osclass_vendor CPE  PORT  PROTOCOL  service_conf service_extrainfo service_method service_name service_ostype service_product service_version
 
+## VIDEO
 
+ [![Watch the video](https://share.gifyoutube.com/Im2FVyLLxZ0.gif)](https://youtu.be/Im2FVyLLxZ0)
 
