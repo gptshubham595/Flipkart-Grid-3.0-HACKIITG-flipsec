@@ -7,7 +7,7 @@ sublist3r
 rfc3987
 termcolor
 asgiref==3.4.1
-certifi==2021.5.30
+certifi==2022.12.7
 charset-normalizer==2.0.2
 Django==3.2.5
 dnspython==2.1.0
